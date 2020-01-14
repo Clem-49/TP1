@@ -1,1 +1,1 @@
-###test_app.bat - 201x - Clément Ferreira version 1.2.1 ###
+### test_app.bat - 201x - Clément Ferreira - version 2.0.0 ###
