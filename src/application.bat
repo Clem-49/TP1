@@ -1,2 +1,3 @@
 #Code:
-echo"version 1"
+echo "Build : 10:00"
+echo "version 1"
